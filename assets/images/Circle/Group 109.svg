@@ -1,0 +1,9 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-1-inside-1_1101_3297" fill="white">
+<path d="M768.198 131.802C821.075 184.679 859.942 249.9 881.284 321.57L450 450L768.198 131.802Z"/>
+</mask>
+<path d="M768.198 131.802C821.075 184.679 859.942 249.9 881.284 321.57L450 450L768.198 131.802Z" stroke="#224F9E" stroke-width="6" mask="url(#path-1-inside-1_1101_3297)"/>
+<path d="M759.662 130.337C817.044 187.719 857.643 259.7 877.066 338.491L445 445L759.662 130.337Z" fill="#DCE4F1"/>
+<circle cx="762" cy="125" r="20" fill="#B53A57"/>
+<circle cx="877" cy="316" r="20" fill="#B53A57"/>
+</svg>

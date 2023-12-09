@@ -1,0 +1,317 @@
+[
+  {
+    "name": "About___ru",
+    "path": "/About",
+    "component": "/var/www/sezpv.com/pages/About.vue",
+    "chunkName": "pages/About",
+    "_name": "_078e1c9a"
+  },
+  {
+    "name": "Compliance___ru",
+    "path": "/Compliance",
+    "component": "/var/www/sezpv.com/pages/Compliance.vue",
+    "chunkName": "pages/Compliance",
+    "_name": "_56b96836"
+  },
+  {
+    "name": "Contacts___ru",
+    "path": "/Contacts",
+    "component": "/var/www/sezpv.com/pages/Contacts.vue",
+    "chunkName": "pages/Contacts",
+    "_name": "_911fb6c6"
+  },
+  {
+    "name": "index___en",
+    "path": "/en",
+    "component": "/var/www/sezpv.com/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b702a6d0"
+  },
+  {
+    "name": "Faq___ru",
+    "path": "/Faq",
+    "component": "/var/www/sezpv.com/pages/Faq.vue",
+    "chunkName": "pages/Faq",
+    "_name": "_6113983c"
+  },
+  {
+    "name": "InteractiveDiagram___ru",
+    "path": "/InteractiveDiagram",
+    "component": "/var/www/sezpv.com/pages/InteractiveDiagram.vue",
+    "chunkName": "pages/InteractiveDiagram",
+    "_name": "_99f1934a"
+  },
+  {
+    "name": "index___kz",
+    "path": "/kz",
+    "component": "/var/www/sezpv.com/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b702a6d0"
+  },
+  {
+    "name": "Managment___ru",
+    "path": "/Managment",
+    "component": "/var/www/sezpv.com/pages/Managment/index.vue",
+    "chunkName": "pages/Managment/index",
+    "_name": "_6d565af2"
+  },
+  {
+    "name": "News___ru",
+    "path": "/News",
+    "component": "/var/www/sezpv.com/pages/News/index.vue",
+    "chunkName": "pages/News/index",
+    "_name": "_4811b4e0"
+  },
+  {
+    "name": "Projects___ru",
+    "path": "/Projects",
+    "component": "/var/www/sezpv.com/pages/Projects/index.vue",
+    "chunkName": "pages/Projects/index",
+    "_name": "_1ca0f4c7"
+  },
+  {
+    "name": "Supply___ru",
+    "path": "/Supply",
+    "component": "/var/www/sezpv.com/pages/Supply.vue",
+    "chunkName": "pages/Supply",
+    "_name": "_0edee3b9"
+  },
+  {
+    "name": "Vacancy___ru",
+    "path": "/Vacancy",
+    "component": "/var/www/sezpv.com/pages/Vacancy.vue",
+    "chunkName": "pages/Vacancy",
+    "_name": "_20859821"
+  },
+  {
+    "name": "Video___ru",
+    "path": "/Video",
+    "component": "/var/www/sezpv.com/pages/Video.vue",
+    "chunkName": "pages/Video",
+    "_name": "_c8f488be"
+  },
+  {
+    "name": "About___en",
+    "path": "/en/About",
+    "component": "/var/www/sezpv.com/pages/About.vue",
+    "chunkName": "pages/About",
+    "_name": "_078e1c9a"
+  },
+  {
+    "name": "Compliance___en",
+    "path": "/en/Compliance",
+    "component": "/var/www/sezpv.com/pages/Compliance.vue",
+    "chunkName": "pages/Compliance",
+    "_name": "_56b96836"
+  },
+  {
+    "name": "Contacts___en",
+    "path": "/en/Contacts",
+    "component": "/var/www/sezpv.com/pages/Contacts.vue",
+    "chunkName": "pages/Contacts",
+    "_name": "_911fb6c6"
+  },
+  {
+    "name": "Faq___en",
+    "path": "/en/Faq",
+    "component": "/var/www/sezpv.com/pages/Faq.vue",
+    "chunkName": "pages/Faq",
+    "_name": "_6113983c"
+  },
+  {
+    "name": "InteractiveDiagram___en",
+    "path": "/en/InteractiveDiagram",
+    "component": "/var/www/sezpv.com/pages/InteractiveDiagram.vue",
+    "chunkName": "pages/InteractiveDiagram",
+    "_name": "_99f1934a"
+  },
+  {
+    "name": "Managment___en",
+    "path": "/en/Managment",
+    "component": "/var/www/sezpv.com/pages/Managment/index.vue",
+    "chunkName": "pages/Managment/index",
+    "_name": "_6d565af2"
+  },
+  {
+    "name": "News___en",
+    "path": "/en/News",
+    "component": "/var/www/sezpv.com/pages/News/index.vue",
+    "chunkName": "pages/News/index",
+    "_name": "_4811b4e0"
+  },
+  {
+    "name": "Projects___en",
+    "path": "/en/Projects",
+    "component": "/var/www/sezpv.com/pages/Projects/index.vue",
+    "chunkName": "pages/Projects/index",
+    "_name": "_1ca0f4c7"
+  },
+  {
+    "name": "Supply___en",
+    "path": "/en/Supply",
+    "component": "/var/www/sezpv.com/pages/Supply.vue",
+    "chunkName": "pages/Supply",
+    "_name": "_0edee3b9"
+  },
+  {
+    "name": "Vacancy___en",
+    "path": "/en/Vacancy",
+    "component": "/var/www/sezpv.com/pages/Vacancy.vue",
+    "chunkName": "pages/Vacancy",
+    "_name": "_20859821"
+  },
+  {
+    "name": "Video___en",
+    "path": "/en/Video",
+    "component": "/var/www/sezpv.com/pages/Video.vue",
+    "chunkName": "pages/Video",
+    "_name": "_c8f488be"
+  },
+  {
+    "name": "About___kz",
+    "path": "/kz/About",
+    "component": "/var/www/sezpv.com/pages/About.vue",
+    "chunkName": "pages/About",
+    "_name": "_078e1c9a"
+  },
+  {
+    "name": "Compliance___kz",
+    "path": "/kz/Compliance",
+    "component": "/var/www/sezpv.com/pages/Compliance.vue",
+    "chunkName": "pages/Compliance",
+    "_name": "_56b96836"
+  },
+  {
+    "name": "Contacts___kz",
+    "path": "/kz/Contacts",
+    "component": "/var/www/sezpv.com/pages/Contacts.vue",
+    "chunkName": "pages/Contacts",
+    "_name": "_911fb6c6"
+  },
+  {
+    "name": "Faq___kz",
+    "path": "/kz/Faq",
+    "component": "/var/www/sezpv.com/pages/Faq.vue",
+    "chunkName": "pages/Faq",
+    "_name": "_6113983c"
+  },
+  {
+    "name": "InteractiveDiagram___kz",
+    "path": "/kz/InteractiveDiagram",
+    "component": "/var/www/sezpv.com/pages/InteractiveDiagram.vue",
+    "chunkName": "pages/InteractiveDiagram",
+    "_name": "_99f1934a"
+  },
+  {
+    "name": "Managment___kz",
+    "path": "/kz/Managment",
+    "component": "/var/www/sezpv.com/pages/Managment/index.vue",
+    "chunkName": "pages/Managment/index",
+    "_name": "_6d565af2"
+  },
+  {
+    "name": "News___kz",
+    "path": "/kz/News",
+    "component": "/var/www/sezpv.com/pages/News/index.vue",
+    "chunkName": "pages/News/index",
+    "_name": "_4811b4e0"
+  },
+  {
+    "name": "Projects___kz",
+    "path": "/kz/Projects",
+    "component": "/var/www/sezpv.com/pages/Projects/index.vue",
+    "chunkName": "pages/Projects/index",
+    "_name": "_1ca0f4c7"
+  },
+  {
+    "name": "Supply___kz",
+    "path": "/kz/Supply",
+    "component": "/var/www/sezpv.com/pages/Supply.vue",
+    "chunkName": "pages/Supply",
+    "_name": "_0edee3b9"
+  },
+  {
+    "name": "Vacancy___kz",
+    "path": "/kz/Vacancy",
+    "component": "/var/www/sezpv.com/pages/Vacancy.vue",
+    "chunkName": "pages/Vacancy",
+    "_name": "_20859821"
+  },
+  {
+    "name": "Video___kz",
+    "path": "/kz/Video",
+    "component": "/var/www/sezpv.com/pages/Video.vue",
+    "chunkName": "pages/Video",
+    "_name": "_c8f488be"
+  },
+  {
+    "name": "Managment-id___en",
+    "path": "/en/Managment/:id",
+    "component": "/var/www/sezpv.com/pages/Managment/_id.vue",
+    "chunkName": "pages/Managment/_id",
+    "_name": "_d1986aa2"
+  },
+  {
+    "name": "News-id___en",
+    "path": "/en/News/:id",
+    "component": "/var/www/sezpv.com/pages/News/_id.vue",
+    "chunkName": "pages/News/_id",
+    "_name": "_0c476f48"
+  },
+  {
+    "name": "Projects-id___en",
+    "path": "/en/Projects/:id",
+    "component": "/var/www/sezpv.com/pages/Projects/_id.vue",
+    "chunkName": "pages/Projects/_id",
+    "_name": "_47a37cef"
+  },
+  {
+    "name": "Managment-id___kz",
+    "path": "/kz/Managment/:id",
+    "component": "/var/www/sezpv.com/pages/Managment/_id.vue",
+    "chunkName": "pages/Managment/_id",
+    "_name": "_d1986aa2"
+  },
+  {
+    "name": "News-id___kz",
+    "path": "/kz/News/:id",
+    "component": "/var/www/sezpv.com/pages/News/_id.vue",
+    "chunkName": "pages/News/_id",
+    "_name": "_0c476f48"
+  },
+  {
+    "name": "Projects-id___kz",
+    "path": "/kz/Projects/:id",
+    "component": "/var/www/sezpv.com/pages/Projects/_id.vue",
+    "chunkName": "pages/Projects/_id",
+    "_name": "_47a37cef"
+  },
+  {
+    "name": "Managment-id___ru",
+    "path": "/Managment/:id",
+    "component": "/var/www/sezpv.com/pages/Managment/_id.vue",
+    "chunkName": "pages/Managment/_id",
+    "_name": "_d1986aa2"
+  },
+  {
+    "name": "News-id___ru",
+    "path": "/News/:id",
+    "component": "/var/www/sezpv.com/pages/News/_id.vue",
+    "chunkName": "pages/News/_id",
+    "_name": "_0c476f48"
+  },
+  {
+    "name": "Projects-id___ru",
+    "path": "/Projects/:id",
+    "component": "/var/www/sezpv.com/pages/Projects/_id.vue",
+    "chunkName": "pages/Projects/_id",
+    "_name": "_47a37cef"
+  },
+  {
+    "name": "index___ru",
+    "path": "/",
+    "component": "/var/www/sezpv.com/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_b702a6d0"
+  }
+]

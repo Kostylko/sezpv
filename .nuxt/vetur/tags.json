@@ -1,0 +1,74 @@
+{
+  "Benefits": {
+    "description": "Auto imported from components/Benefits.vue"
+  },
+  "News": {
+    "description": "Auto imported from components/News.vue"
+  },
+  "Partners": {
+    "description": "Auto imported from components/Partners.vue"
+  },
+  "Projects": {
+    "description": "Auto imported from components/Projects.vue"
+  },
+  "Request": {
+    "description": "Auto imported from components/Request.vue"
+  },
+  "Statistics": {
+    "description": "Auto imported from components/Statistics.vue"
+  },
+  "ComplianceContent": {
+    "description": "Auto imported from components/complianceContent.vue"
+  },
+  "FaqContent": {
+    "description": "Auto imported from components/faqContent.vue"
+  },
+  "SupplyContent": {
+    "description": "Auto imported from components/supplyContent.vue"
+  },
+  "VacancyContent": {
+    "description": "Auto imported from components/vacancyContent.vue"
+  },
+  "VueFooter": {
+    "description": "Auto imported from components/vueFooter.vue"
+  },
+  "VueHeader": {
+    "description": "Auto imported from components/vueHeader.vue"
+  },
+  "BackgroundsAboutPage": {
+    "description": "Auto imported from components/backgrounds/AboutPage.vue"
+  },
+  "BackgroundsCompliance": {
+    "description": "Auto imported from components/backgrounds/Compliance.vue"
+  },
+  "BackgroundsContacts": {
+    "description": "Auto imported from components/backgrounds/Contacts.vue"
+  },
+  "BackgroundsFaq": {
+    "description": "Auto imported from components/backgrounds/Faq.vue"
+  },
+  "BackgroundsInteractive": {
+    "description": "Auto imported from components/backgrounds/Interactive.vue"
+  },
+  "BackgroundsManagment": {
+    "description": "Auto imported from components/backgrounds/Managment.vue"
+  },
+  "BackgroundsNews": {
+    "description": "Auto imported from components/backgrounds/News.vue"
+  },
+  "BackgroundsProject": {
+    "description": "Auto imported from components/backgrounds/Project.vue"
+  },
+  "BackgroundsSupply": {
+    "description": "Auto imported from components/backgrounds/Supply.vue"
+  },
+  "BackgroundsVacancy": {
+    "description": "Auto imported from components/backgrounds/Vacancy.vue"
+  },
+  "UiBreadCrumbs": {
+    "description": "Auto imported from components/ui/BreadCrumbs.vue"
+  },
+  "UiInsideBreadCrumbs": {
+    "description": "Auto imported from components/ui/InsideBreadCrumbs.vue"
+  }
+}
